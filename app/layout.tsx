@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
 import InstallPWA from '@/components/InstallPWA'
+import { Analytics } from '@vercel/analytics/next'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -48,6 +49,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className={`${inter.className} antialiased bg-[#FAFAFA]`}>
         {children}
         <InstallPWA />
+        <Analytics />
       </body>
     </html>
   )

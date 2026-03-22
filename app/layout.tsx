@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
+import InstallPWA from '@/components/InstallPWA'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -46,6 +47,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="es">
       <body className={`${inter.className} antialiased bg-[#FAFAFA]`}>
         {children}
+        <InstallPWA />
       </body>
     </html>
   )

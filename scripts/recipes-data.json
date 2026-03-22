@@ -1,0 +1,1618 @@
+[
+  {
+    "nombre": "Huevos a la mexicana",
+    "tipo": "desayuno",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"3","unidad":"pzas","item":"huevos"},
+      {"cantidad":"1","unidad":"pza","item":"jitomate"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"pza","item":"chile serrano"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Pica finamente jitomate, cebolla y chile serrano.","Calienta el aceite en un sartén a fuego medio.","Sofríe la cebolla 1 minuto, agrega el chile y el jitomate, 2 minutos más.","Bate los huevos con sal y viérte sobre la verdura.","Revuelve suavemente hasta que cuajen. Sirve con tortillas."],
+    "tags": ["rapido","economico","clasico","con_huevo"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Chilaquiles rojos",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"200","unidad":"g","item":"totopos"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomate"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles guajillo"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"diente","item":"ajo"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"},
+      {"cantidad":"50","unidad":"g","item":"queso fresco"}
+    ],
+    "pasos": ["Hierve los chiles y jitomates 10 minutos. Licúa con ajo, cebolla y sal.","Fríe la salsa en aceite caliente 3 minutos hasta que espese.","Agrega los totopos y mezcla para bañarlos bien.","Sirve de inmediato con crema y queso fresco desmoronado."],
+    "tags": ["clasico","economico"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Quesadillas de frijoles",
+    "tipo": "desayuno",
+    "tiempo_min": 10,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"1","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"100","unidad":"g","item":"queso Oaxaca"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Unta frijoles refritos en dos tortillas.","Cubre con queso Oaxaca deshebrado y tapa con la otra tortilla.","Calienta en comal o sartén con poco aceite 2-3 minutos por lado.","Sirve con salsa verde y crema al gusto."],
+    "tags": ["rapido","economico","sin_carne"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Molletes",
+    "tipo": "desayuno",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"bolillos"},
+      {"cantidad":"1","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"150","unidad":"g","item":"queso manchego rallado"},
+      {"cantidad":"2","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"pza","item":"chile serrano"}
+    ],
+    "pasos": ["Parte los bolillos a la mitad y tostalos en el horno o comal.","Unta frijoles refritos generosamente en cada mitad.","Espolvorea queso manchego y hornea o pon a fuego alto hasta gratinar.","Mientras, pica jitomate, cebolla y chile para hacer pico de gallo. Sirve encima."],
+    "tags": ["clasico","economico","sin_carne"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Avena con plátano",
+    "tipo": "desayuno",
+    "tiempo_min": 10,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"avena en hojuelas"},
+      {"cantidad":"2","unidad":"tazas","item":"leche"},
+      {"cantidad":"1","unidad":"pza","item":"plátano tabasco"},
+      {"cantidad":"1","unidad":"cda","item":"azúcar o miel"},
+      {"cantidad":"1","unidad":"pizca","item":"canela molida"}
+    ],
+    "pasos": ["Hierve la leche en una ollita a fuego medio.","Agrega la avena y revuelve constantemente 5 minutos.","Añade azúcar y canela al gusto.","Sirve en tazón con rodajas de plátano encima."],
+    "tags": ["rapido","economico","sin_carne"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Torta de jamón y huevo",
+    "tipo": "desayuno",
+    "tiempo_min": 12,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"bolillos"},
+      {"cantidad":"4","unidad":"rebanadas","item":"jamón"},
+      {"cantidad":"2","unidad":"pzas","item":"huevos"},
+      {"cantidad":"2","unidad":"cdas","item":"mayonesa"},
+      {"cantidad":"1","unidad":"pza","item":"aguacate"},
+      {"cantidad":"2","unidad":"rebanadas","item":"jitomate"}
+    ],
+    "pasos": ["Abre los bolillos y únta mayonesa en la base.","Fríe los huevos con un poco de aceite al gusto.","Calienta el jamón en el mismo sartén 1 minuto.","Arma la torta: aguacate, jitomate, jamón y el huevo. Sazona con sal y pimienta."],
+    "tags": ["rapido","clasico","con_huevo"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Hotcakes de maíz",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"harina de maíz masa harina"},
+      {"cantidad":"1/2","unidad":"taza","item":"harina de trigo"},
+      {"cantidad":"1","unidad":"taza","item":"leche"},
+      {"cantidad":"1","unidad":"pza","item":"huevo"},
+      {"cantidad":"1","unidad":"cda","item":"azúcar"},
+      {"cantidad":"1","unidad":"cdita","item":"polvo para hornear"},
+      {"cantidad":"1","unidad":"cda","item":"mantequilla"}
+    ],
+    "pasos": ["Mezcla harinas, azúcar y polvo para hornear en un tazón.","Bate el huevo con la leche y agrega a la mezcla seca. Revuelve.","Derrite mantequilla en un sartén antiadherente a fuego medio.","Vierte 1/4 de taza de mezcla, cocina hasta que burbujee y voltea. 1-2 min más.","Sirve con miel de abeja o cajeta."],
+    "tags": ["clasico","con_huevo"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Enfrijoladas",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"6","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"2","unidad":"tazas","item":"frijoles negros cocidos"},
+      {"cantidad":"1","unidad":"diente","item":"ajo"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"},
+      {"cantidad":"50","unidad":"g","item":"queso fresco"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"}
+    ],
+    "pasos": ["Licúa los frijoles con el ajo y un poco de su caldo hasta tener salsa lisa.","Calienta aceite y fríe la salsa 3 minutos. Ajusta sal.","Pasa cada tortilla por la salsa y dóblala en cuatro.","Sirve 3 por plato, baña con más salsa, crema y queso desmoronado."],
+    "tags": ["clasico","economico","sin_carne"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Caldo de pollo con verduras",
+    "tipo": "desayuno",
+    "tiempo_min": 30,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"piernas de pollo"},
+      {"cantidad":"2","unidad":"pzas","item":"zanahorias"},
+      {"cantidad":"2","unidad":"pzas","item":"papas"},
+      {"cantidad":"1","unidad":"pza","item":"elote"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"diente","item":"ajo"},
+      {"cantidad":"1","unidad":"pza","item":"chile chipotle"}
+    ],
+    "pasos": ["Hierve el pollo con cebolla, ajo y sal en 1.5 litros de agua 20 minutos.","Agrega zanahoria, papa y elote en trozos. Cocina 10 minutos más.","Agrega el chipotle al gusto y ajusta la sal.","Sirve caliente con tortillas."],
+    "tags": ["caldoso","clasico","con_pollo"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Pan francés",
+    "tipo": "desayuno",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"rebanadas","item":"pan de caja"},
+      {"cantidad":"2","unidad":"pzas","item":"huevos"},
+      {"cantidad":"1/4","unidad":"taza","item":"leche"},
+      {"cantidad":"1","unidad":"cda","item":"azúcar"},
+      {"cantidad":"1","unidad":"cdita","item":"canela"},
+      {"cantidad":"1","unidad":"cda","item":"mantequilla"}
+    ],
+    "pasos": ["Bate huevos con leche, azúcar y canela en un plato hondo.","Moja cada rebanada de pan en la mezcla por ambos lados.","Calienta mantequilla en sartén a fuego medio.","Cocina el pan 2-3 minutos por lado hasta dorar. Sirve con miel o mermelada."],
+    "tags": ["rapido","economico","con_huevo"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Sincronizadas",
+    "tipo": "desayuno",
+    "tiempo_min": 10,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de harina"},
+      {"cantidad":"6","unidad":"rebanadas","item":"jamón"},
+      {"cantidad":"150","unidad":"g","item":"queso manchego"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Coloca una tortilla en el comal a fuego medio.","Pon 3 rebanadas de jamón y queso manchego en la mitad.","Dobla la tortilla y calienta 2 minutos por lado hasta que el queso derrita.","Corta en triangulos y sirve con guacamole o salsa."],
+    "tags": ["rapido","clasico"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Atole de guayaba",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"guayabas"},
+      {"cantidad":"4","unidad":"tazas","item":"leche"},
+      {"cantidad":"3","unidad":"cdas","item":"fécula de maíz"},
+      {"cantidad":"3","unidad":"cdas","item":"azúcar"},
+      {"cantidad":"1","unidad":"raja","item":"canela"}
+    ],
+    "pasos": ["Licúa las guayabas con 1 taza de leche y cuela.","Disuelve la fécula en 1/2 taza de leche fría.","Hierve el resto de la leche con la canela y el azúcar.","Agrega el licuado de guayaba y la fécula. Mueve hasta espesar 5 minutos."],
+    "tags": ["clasico","sin_carne"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Tamales de rajas (recalentados)",
+    "tipo": "desayuno",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"tamales de rajas"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"}
+    ],
+    "pasos": ["Calienta los tamales en vaporera o microondas 3-4 minutos.","Abre los tamales y baña con salsa verde caliente.","Agrega crema al gusto. Sirve inmediatamente."],
+    "tags": ["clasico","sin_carne"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Huevos rancheros",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"huevos"},
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles serranos"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Licúa jitomates, chiles y cebolla. Fríe la salsa en aceite 5 minutos.","Calienta las tortillas en comal seco.","Fríe los huevos estrellados en aceite.","Sirve 2 tortillas por plato, 2 huevos encima y baña con salsa ranchera."],
+    "tags": ["clasico","con_huevo"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Yogur con granola y fruta",
+    "tipo": "desayuno",
+    "tiempo_min": 5,
+    "dificultad": "fácil",
+    "porciones": 1,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"yogur natural"},
+      {"cantidad":"1/3","unidad":"taza","item":"granola"},
+      {"cantidad":"1","unidad":"pza","item":"plátano"},
+      {"cantidad":"1","unidad":"puño","item":"fresas"}
+    ],
+    "pasos": ["Vierte el yogur en un tazón.","Agrega granola y revuelve ligeramente.","Corta el plátano en rodajas y las fresas a la mitad.","Acomoda la fruta encima y sirve de inmediato."],
+    "tags": ["rapido","economico","sin_carne"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Machaca con huevo",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"100","unidad":"g","item":"carne seca machaca"},
+      {"cantidad":"3","unidad":"pzas","item":"huevos"},
+      {"cantidad":"1","unidad":"pza","item":"jitomate"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"pza","item":"chile serrano"}
+    ],
+    "pasos": ["Pica jitomate, cebolla y chile finamente.","Sofríe la cebolla en aceite 2 minutos, agrega chile y jitomate.","Añade la machaca, revuelve 2 minutos a fuego alto.","Bate los huevos, vierte y revuelve hasta que cuajen."],
+    "tags": ["clasico","con_huevo","con_res"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Licuado de fresa con leche",
+    "tipo": "desayuno",
+    "tiempo_min": 5,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"fresas"},
+      {"cantidad":"2","unidad":"tazas","item":"leche"},
+      {"cantidad":"2","unidad":"cdas","item":"azúcar"},
+      {"cantidad":"1","unidad":"pza","item":"plátano"}
+    ],
+    "pasos": ["Lava y desinfecta las fresas.","Licúa todos los ingredientes hasta integrar bien.","Sirve de inmediato con hielo si se desea."],
+    "tags": ["rapido","economico","sin_carne"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Chilaquiles verdes con pollo",
+    "tipo": "desayuno",
+    "tiempo_min": 25,
+    "dificultad": "media",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"200","unidad":"g","item":"totopos"},
+      {"cantidad":"1","unidad":"taza","item":"pollo deshebrado cocido"},
+      {"cantidad":"500","unidad":"g","item":"tomates verdes"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles serranos"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"}
+    ],
+    "pasos": ["Hierve tomates y chiles 8 minutos. Licúa con cebolla y sal.","Fríe la salsa verde en aceite caliente 3 minutos.","Agrega el pollo deshebrado y mezcla.","Añade totopos y revuelve 1 minuto para que absorban la salsa.","Sirve con crema y queso."],
+    "tags": ["clasico","con_pollo"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Tostadas de frijoles",
+    "tipo": "desayuno",
+    "tiempo_min": 10,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"tostadas"},
+      {"cantidad":"1","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"1","unidad":"pza","item":"aguacate"},
+      {"cantidad":"50","unidad":"g","item":"queso fresco"},
+      {"cantidad":"1/2","unidad":"taza","item":"lechuga rallada"}
+    ],
+    "pasos": ["Unta frijoles refritos en cada tostada.","Coloca lechuga rallada encima.","Agrega rebanadas de aguacate y desmorona queso fresco.","Sirve con salsa picante al gusto."],
+    "tags": ["rapido","economico","sin_carne"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Esquite en vaso",
+    "tipo": "desayuno",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"tazas","item":"granos de elote"},
+      {"cantidad":"2","unidad":"cdas","item":"mayonesa"},
+      {"cantidad":"1","unidad":"cda","item":"mantequilla"},
+      {"cantidad":"1","unidad":"cdita","item":"chile en polvo"},
+      {"cantidad":"2","unidad":"cdas","item":"queso cotija rallado"},
+      {"cantidad":"1","unidad":"pza","item":"limón"}
+    ],
+    "pasos": ["Calienta los granos de elote con mantequilla en sartén 5 minutos.","Añade epazote si tienes, sal al gusto.","Sirve en vasos con mayonesa, chile en polvo y queso cotija.","Exprime limón encima. Sirve caliente."],
+    "tags": ["rapido","economico","sin_carne"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Huevos divorciados",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"huevos"},
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"1","unidad":"taza","item":"salsa roja"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"},
+      {"cantidad":"1","unidad":"taza","item":"frijoles refritos"}
+    ],
+    "pasos": ["Fríe los huevos estrellados en aceite, 2 por plato.","Calienta las tortillas y únta frijoles refritos.","Coloca 2 huevos sobre las tortillas.","Baña uno con salsa roja y el otro con salsa verde. Así se 'divorcian'."],
+    "tags": ["clasico","con_huevo"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Cereal con leche y fruta",
+    "tipo": "desayuno",
+    "tiempo_min": 5,
+    "dificultad": "fácil",
+    "porciones": 1,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"cereal integral"},
+      {"cantidad":"1","unidad":"taza","item":"leche"},
+      {"cantidad":"1","unidad":"pza","item":"plátano"},
+      {"cantidad":"1","unidad":"puño","item":"fresas o moras"}
+    ],
+    "pasos": ["Sirve el cereal en un tazón.","Vierte la leche fría encima.","Agrega rodajas de plátano y fruta de temporada.","Listo para servir."],
+    "tags": ["rapido","economico","sin_carne"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Gorditas de chicharrón",
+    "tipo": "desayuno",
+    "tiempo_min": 25,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"tazas","item":"masa para tortillas"},
+      {"cantidad":"100","unidad":"g","item":"chicharrón prensado"},
+      {"cantidad":"1","unidad":"taza","item":"salsa roja"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Forma bolitas de masa y aplana en tortillas gordas de 1 cm.","Cocina en comal seco a fuego medio 5 minutos por lado.","Calienta el chicharrón prensado en salsa roja hasta espesar.","Abre la gordita por la mitad y rellena con el guisado."],
+    "tags": ["clasico","con_cerdo"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Tlayuda casera",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "media",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"tortillas grandes o tlayudas"},
+      {"cantidad":"1","unidad":"taza","item":"frijoles negros refritos"},
+      {"cantidad":"100","unidad":"g","item":"tasajo o carne asada en tiras"},
+      {"cantidad":"100","unidad":"g","item":"queso Oaxaca"},
+      {"cantidad":"1/2","unidad":"pza","item":"aguacate"},
+      {"cantidad":"1","unidad":"taza","item":"lechuga"},
+      {"cantidad":"2","unidad":"pzas","item":"jitomate"}
+    ],
+    "pasos": ["Tuesta la tortilla en comal a fuego bajo hasta que endurezca un poco.","Unta abundante frijoles refritos.","Agrega el queso Oaxaca deshebrado y calienta hasta que derrita.","Coloca la carne, lechuga, jitomate y aguacate. Sirve con salsa."],
+    "tags": ["clasico","con_res"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Tamales de elote",
+    "tipo": "desayuno",
+    "tiempo_min": 60,
+    "dificultad": "difícil",
+    "porciones": 8,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"elotes desgranados"},
+      {"cantidad":"100","unidad":"g","item":"mantequilla"},
+      {"cantidad":"1/2","unidad":"taza","item":"azúcar"},
+      {"cantidad":"1","unidad":"cdita","item":"sal"},
+      {"cantidad":"1","unidad":"cdita","item":"polvo para hornear"},
+      {"cantidad":"16","unidad":"pzas","item":"hojas de elote"}
+    ],
+    "pasos": ["Muele los granos de elote en licuadora hasta obtener pasta.","Bate mantequilla con azúcar hasta cremar. Mezcla con la pasta de elote.","Añade sal y polvo para hornear. La masa debe quedar suave.","Pon 2 cdas de masa en hojas de elote remojadas, dobla y amarra.","Cuece en vaporera 45 minutos. Listo cuando la hoja se despega fácil."],
+    "tags": ["clasico","sin_carne"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Burrito de huevo y papa",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de harina grandes"},
+      {"cantidad":"3","unidad":"pzas","item":"huevos"},
+      {"cantidad":"2","unidad":"pzas","item":"papas medianas"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"},
+      {"cantidad":"1","unidad":"pza","item":"chile serrano"}
+    ],
+    "pasos": ["Pela y corta las papas en cubos pequeños. Fríe en aceite hasta dorar.","Agrega cebolla y chile picados, sofríe 2 minutos.","Bate los huevos, vierte sobre la papa y revuelve hasta cuajar.","Calienta las tortillas, rellena con el guisado y enrolla. Sirve con salsa."],
+    "tags": ["clasico","con_huevo","economico"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Enchiladas con frijoles",
+    "tipo": "desayuno",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"6","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"1","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles anchos"},
+      {"cantidad":"2","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"50","unidad":"g","item":"queso fresco"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"}
+    ],
+    "pasos": ["Hidrata los chiles anchos en agua caliente 10 minutos. Licúa con jitomate.","Fríe la salsa en aceite 3 minutos. Ajusta sal.","Rellena tortillas con frijoles, pasa por la salsa y dobla.","Sirve con crema y queso fresco."],
+    "tags": ["clasico","sin_carne","economico"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Torta de milanesa de res",
+    "tipo": "desayuno",
+    "tiempo_min": 25,
+    "dificultad": "media",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"milanesas de res"},
+      {"cantidad":"2","unidad":"pzas","item":"bolillos"},
+      {"cantidad":"1","unidad":"pza","item":"aguacate"},
+      {"cantidad":"1","unidad":"pza","item":"jitomate"},
+      {"cantidad":"1/2","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"2","unidad":"cdas","item":"mayonesa"}
+    ],
+    "pasos": ["Empaniza las milanesas pasándolas por huevo batido y pan molido.","Fríe en aceite caliente 3-4 minutos por lado hasta dorar.","Unta mayonesa y frijoles en el bolillo.","Agrega jitomate, aguacate y la milanesa. Sazona con sal y chile jalapeño."],
+    "tags": ["clasico","con_res"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Sopes de frijol",
+    "tipo": "desayuno",
+    "tiempo_min": 25,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"tazas","item":"masa para tortillas"},
+      {"cantidad":"1","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"100","unidad":"g","item":"queso fresco"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"}
+    ],
+    "pasos": ["Forma bolitas de masa y aplana en círculos de 1 cm de grosor.","Cuece en comal seco 3 minutos por lado. Pellizca los bordes para formar el sope.","Fríe ligeramente en aceite para que tome consistencia.","Unta frijoles, agrega queso, crema y salsa."],
+    "tags": ["clasico","sin_carne","economico"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Sopa de fideos seca",
+    "tipo": "comida",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"200","unidad":"g","item":"fideos cabello de ángel"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"diente","item":"ajo"},
+      {"cantidad":"2","unidad":"cdas","item":"aceite"},
+      {"cantidad":"1","unidad":"taza","item":"caldo de pollo o agua"}
+    ],
+    "pasos": ["Licúa jitomates, cebolla y ajo hasta hacer puré. Cuela.","Dora los fideos en aceite caliente a fuego medio 3-4 minutos sin parar de mover.","Agrega el puré de jitomate, cuidado que salpica. Fríe 2 minutos.","Añade el caldo, sazona con sal. Tapa y cocina a fuego bajo 8-10 minutos.","Sirve con crema y queso rallado."],
+    "tags": ["clasico","economico","sin_carne","seco"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Arroz rojo a la mexicana",
+    "tipo": "comida",
+    "tiempo_min": 30,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"tazas","item":"arroz"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"2","unidad":"cdas","item":"aceite"},
+      {"cantidad":"3","unidad":"tazas","item":"caldo de pollo"},
+      {"cantidad":"1","unidad":"pza","item":"zanahoria"},
+      {"cantidad":"1/2","unidad":"taza","item":"chícharos"}
+    ],
+    "pasos": ["Dora el arroz en aceite a fuego medio 5 minutos hasta que tome color dorado.","Licúa jitomates, cebolla y ajo. Cuela.","Agrega el licuado al arroz, fríe 2 minutos.","Añade el caldo caliente, zanahoria y chícharos. Sal al gusto.","Tapa y cocina 18 minutos a fuego muy bajo. Reposa 5 minutos."],
+    "tags": ["clasico","economico","sin_carne","seco"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Pollo en salsa de jitomate",
+    "tipo": "comida",
+    "tiempo_min": 35,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"muslos de pollo"},
+      {"cantidad":"4","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles serranos"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Sazona el pollo con sal y pimienta. Dóralo en aceite 5 minutos por lado.","Licúa jitomates, chiles, cebolla y ajo.","Agrega la salsa al pollo, cubre y cocina 20 minutos a fuego medio-bajo.","Ajusta sal. Sirve con arroz y frijoles."],
+    "tags": ["clasico","con_pollo","caldoso"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Milanesa de pollo con ensalada",
+    "tipo": "comida",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"pechugas de pollo aplanadas"},
+      {"cantidad":"1","unidad":"pza","item":"huevo"},
+      {"cantidad":"1","unidad":"taza","item":"pan molido"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"},
+      {"cantidad":"2","unidad":"tazas","item":"lechuga"},
+      {"cantidad":"2","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1","unidad":"pza","item":"limón"}
+    ],
+    "pasos": ["Sazona las pechugas con sal, pimienta y ajo en polvo.","Pasa por huevo batido y luego por pan molido.","Fríe en aceite caliente 4-5 minutos por lado hasta dorar bien.","Sirve con ensalada de lechuga y jitomate. Limón al gusto."],
+    "tags": ["clasico","con_pollo","seco"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Picadillo de res",
+    "tipo": "comida",
+    "tiempo_min": 30,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"300","unidad":"g","item":"carne molida de res"},
+      {"cantidad":"2","unidad":"pzas","item":"papas"},
+      {"cantidad":"2","unidad":"pzas","item":"zanahorias"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"diente","item":"ajo"}
+    ],
+    "pasos": ["Sofríe la cebolla y el ajo en aceite 2 minutos.","Agrega la carne molida y cocina hasta que pierda el color rosa.","Añade jitomate picado, papa y zanahoria en cubos. Sazona.","Agrega 1/2 taza de agua, tapa y cocina 15 minutos hasta que las verduras estén suaves."],
+    "tags": ["clasico","con_res","economico"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Tacos de papa con chorizo",
+    "tipo": "comida",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"3","unidad":"pzas","item":"papas medianas"},
+      {"cantidad":"150","unidad":"g","item":"chorizo"},
+      {"cantidad":"12","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"}
+    ],
+    "pasos": ["Cuece las papas en agua salada 15 minutos. Pela y corta en cubos.","Fríe el chorizo sin aceite hasta que suelte su grasa, 5 minutos.","Agrega la papa, mezcla y aplasta un poco. Sofríe 3 minutos más.","Calienta tortillas y sirve el guisado. Acompaña con salsa verde y cebolla picada."],
+    "tags": ["clasico","con_cerdo","economico"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Sopa de verduras",
+    "tipo": "comida",
+    "tiempo_min": 30,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"papas"},
+      {"cantidad":"2","unidad":"pzas","item":"zanahorias"},
+      {"cantidad":"1","unidad":"pza","item":"chayote"},
+      {"cantidad":"1/2","unidad":"taza","item":"ejotes"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"}
+    ],
+    "pasos": ["Corta todas las verduras en cubos medianos.","Licúa jitomates con ajo y cebolla. Fríe la salsa 3 minutos.","Agrega 1.5 litros de agua y hierve.","Añade las verduras y cocina 15-20 minutos. Sal y epazote al gusto."],
+    "tags": ["caldoso","sin_carne","economico"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Bistec encebollado",
+    "tipo": "comida",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"bisteces de res"},
+      {"cantidad":"2","unidad":"pzas","item":"cebollas"},
+      {"cantidad":"1","unidad":"pza","item":"chile poblano"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"},
+      {"cantidad":"1","unidad":"pza","item":"limón"}
+    ],
+    "pasos": ["Sazona los bisteces con sal, pimienta y jugo de limón.","Corta la cebolla en rodajas y el chile poblano en rajas.","Sella los bisteces en aceite muy caliente 2-3 minutos por lado.","En el mismo aceite sofríe cebolla y chile hasta caramelizar. Sirve encima del bistec."],
+    "tags": ["clasico","con_res","seco"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Calabacitas con queso",
+    "tipo": "comida",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"calabacitas"},
+      {"cantidad":"2","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"100","unidad":"g","item":"queso panela"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Corta las calabacitas en cubos y el jitomate en trozos.","Sofríe la cebolla en aceite 2 minutos.","Agrega el jitomate, cocina 3 minutos. Añade las calabacitas.","Tapa y cocina 8 minutos. Agrega el queso en cubos al final y retira del fuego."],
+    "tags": ["rapido","sin_carne","economico"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Pollo a la naranja",
+    "tipo": "comida",
+    "tiempo_min": 40,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"piernas de pollo"},
+      {"cantidad":"4","unidad":"pzas","item":"naranjas (jugo)"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"1","unidad":"cdita","item":"comino"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"},
+      {"cantidad":"1","unidad":"cdita","item":"orégano"}
+    ],
+    "pasos": ["Marina el pollo con jugo de naranja, ajo machacado, comino, orégano y sal 15 minutos.","Dora el pollo en aceite 5 minutos por lado a fuego alto.","Agrega el resto de la marinada, tapa y cocina a fuego medio 25 minutos.","Sirve con arroz y la salsa de naranja reducida."],
+    "tags": ["clasico","con_pollo"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Espagueti a la crema",
+    "tipo": "comida",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"300","unidad":"g","item":"espagueti"},
+      {"cantidad":"1","unidad":"taza","item":"crema ácida"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles poblanos"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"100","unidad":"g","item":"queso manchego"},
+      {"cantidad":"1","unidad":"cda","item":"mantequilla"}
+    ],
+    "pasos": ["Cuece el espagueti según el paquete. Escurre.","Asa los chiles, pélalos y córtalos en rajas.","Sofríe la cebolla en mantequilla 2 minutos. Agrega las rajas.","Añade la crema y el queso rallado. Incorpora el espagueti y mezcla bien."],
+    "tags": ["clasico","sin_carne"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Frijoles charros",
+    "tipo": "comida",
+    "tiempo_min": 40,
+    "dificultad": "media",
+    "porciones": 6,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"tazas","item":"frijoles bayos cocidos"},
+      {"cantidad":"100","unidad":"g","item":"tocino"},
+      {"cantidad":"100","unidad":"g","item":"chorizo"},
+      {"cantidad":"2","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles serranos"}
+    ],
+    "pasos": ["Fríe el tocino y el chorizo hasta que estén cocidos.","Añade jitomate, cebolla y chile serrano picados. Sofríe 3 minutos.","Agrega los frijoles ya cocidos con su caldo.","Cocina a fuego medio 15 minutos. Añade cilantro y ajusta sal."],
+    "tags": ["clasico","con_cerdo","caldoso"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Milanesa de res",
+    "tipo": "comida",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"milanesas de res"},
+      {"cantidad":"1","unidad":"pza","item":"huevo"},
+      {"cantidad":"1","unidad":"taza","item":"pan molido"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"},
+      {"cantidad":"2","unidad":"pzas","item":"limones"},
+      {"cantidad":"1","unidad":"taza","item":"salsa de jitomate"}
+    ],
+    "pasos": ["Sazona las milanesas con sal, pimienta y ajo.","Pasa por huevo batido y empaniza con pan molido.","Fríe en aceite caliente 3-4 minutos por lado hasta que doren.","Sirve con arroz rojo, frijoles y limones. Salsa al gusto."],
+    "tags": ["clasico","con_res","seco"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Tacos de nopales",
+    "tipo": "comida",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"nopales medianos"},
+      {"cantidad":"12","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1","unidad":"pza","item":"chile serrano"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"50","unidad":"g","item":"queso fresco"}
+    ],
+    "pasos": ["Limpia y pica los nopales en cuadritos. Hierve 10 minutos con sal y cilantro.","Escurre y enjuaga los nopales. Sofríe con cebolla y chile 5 minutos.","Agrega jitomate picado y cocina 3 minutos más.","Calienta tortillas y sirve los nopales con queso fresco y salsa."],
+    "tags": ["economico","sin_carne","clasico"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Pollo en escabeche",
+    "tipo": "comida",
+    "tiempo_min": 35,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"piernas de pollo"},
+      {"cantidad":"3","unidad":"pzas","item":"zanahorias"},
+      {"cantidad":"1","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1/2","unidad":"taza","item":"vinagre de manzana"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles jalapeños en vinagre"},
+      {"cantidad":"1","unidad":"cda","item":"orégano"}
+    ],
+    "pasos": ["Cuece el pollo en agua con sal 20 minutos. Deshebra.","Sofríe la cebolla en rodajas y la zanahoria en rodajas.","Añade el vinagre, los chiles jalapeños y el orégano. Cocina 5 minutos.","Agrega el pollo deshebrado, mezcla y cocina 5 minutos más a fuego bajo."],
+    "tags": ["clasico","con_pollo"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Flautas de papa",
+    "tipo": "comida",
+    "tiempo_min": 30,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"papas grandes"},
+      {"cantidad":"12","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"1","unidad":"taza","item":"aceite para freír"},
+      {"cantidad":"1","unidad":"taza","item":"crema"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"},
+      {"cantidad":"100","unidad":"g","item":"queso fresco"}
+    ],
+    "pasos": ["Cuece las papas, pélalas y machácalas con sal y un poco de mantequilla.","Calienta las tortillas en microondas para que sean flexibles.","Rellena con papa y enrolla bien. Sujeta con palillo.","Fríe en aceite caliente 3 minutos volteando hasta dorar uniformemente.","Sirve con crema, salsa verde y queso desmoronado."],
+    "tags": ["clasico","sin_carne","economico"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Tinga de pollo",
+    "tipo": "comida",
+    "tiempo_min": 35,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"500","unidad":"g","item":"pechuga de pollo"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles chipotles en adobo"},
+      {"cantidad":"1","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Cuece el pollo en agua con sal 20 minutos. Deshebra.","Sofríe la cebolla en rebanadas hasta que se ablande.","Licúa jitomates, chipotles y ajo. Fríe la salsa 3 minutos.","Agrega el pollo deshebrado, mezcla bien. Cocina 5 minutos a fuego medio."],
+    "tags": ["clasico","con_pollo"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Caldo de res",
+    "tipo": "comida",
+    "tiempo_min": 60,
+    "dificultad": "media",
+    "porciones": 6,
+    "ingredientes": [
+      {"cantidad":"500","unidad":"g","item":"hueso con carne de res"},
+      {"cantidad":"2","unidad":"pzas","item":"papas"},
+      {"cantidad":"2","unidad":"pzas","item":"zanahorias"},
+      {"cantidad":"1","unidad":"pza","item":"chayote"},
+      {"cantidad":"1","unidad":"pza","item":"elote"},
+      {"cantidad":"1/4","unidad":"pza","item":"col"},
+      {"cantidad":"4","unidad":"ramas","item":"cilantro"}
+    ],
+    "pasos": ["Hierve la carne con ajo, cebolla y sal en 2 litros de agua 30 minutos.","Agrega papa, zanahoria y elote en trozos grandes. Cocina 15 minutos.","Añade chayote y col. Cocina 10 minutos más.","Rectifica sal y agrega cilantro. Sirve con tortillas y limón."],
+    "tags": ["caldoso","clasico","con_res"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Chiles rellenos de queso",
+    "tipo": "comida",
+    "tiempo_min": 40,
+    "dificultad": "difícil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"chiles poblanos"},
+      {"cantidad":"200","unidad":"g","item":"queso Oaxaca"},
+      {"cantidad":"3","unidad":"pzas","item":"huevos"},
+      {"cantidad":"1/2","unidad":"taza","item":"harina"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1","unidad":"taza","item":"aceite"}
+    ],
+    "pasos": ["Asa los chiles en el comal, mete en bolsa 10 minutos, pela y ábrelos con cuidado.","Rellena con queso Oaxaca deshebrado. Cierra con palillos.","Pasa por harina y luego por clara de huevo batida a punto de nieve con yemas.","Fríe en aceite caliente hasta dorar. Sirve en salsa de jitomate."],
+    "tags": ["clasico","sin_carne"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Tacos de canasta de frijol",
+    "tipo": "comida",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"12","unidad":"pzas","item":"tortillas de maíz pequeñas"},
+      {"cantidad":"2","unidad":"tazas","item":"frijoles refritos"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla picada"},
+      {"cantidad":"2","unidad":"cdas","item":"aceite"}
+    ],
+    "pasos": ["Calienta los frijoles refritos. Ajusta sal.","Calienta las tortillas en comal o microondas.","Pon una cucharada generosa de frijoles en cada tortilla y dobla.","Sirve con salsa verde, cebolla picada y chile serrano al gusto."],
+    "tags": ["rapido","economico","sin_carne","clasico"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Quesadillas de rajas con crema",
+    "tipo": "comida",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"chiles poblanos"},
+      {"cantidad":"1","unidad":"pza","item":"cebolla"},
+      {"cantidad":"150","unidad":"g","item":"queso Oaxaca"},
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de harina grandes"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"}
+    ],
+    "pasos": ["Asa, pela y corta los chiles en rajas. Sofríe con la cebolla en rodajas.","Agrega la crema y cocina 2 minutos. Sazona.","Coloca las rajas y el queso en la tortilla, dobla.","Calienta en comal hasta que el queso funda. Sirve de inmediato."],
+    "tags": ["clasico","sin_carne"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Albóndigas en caldillo",
+    "tipo": "comida",
+    "tiempo_min": 40,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"300","unidad":"g","item":"carne molida mixta"},
+      {"cantidad":"1/4","unidad":"taza","item":"arroz crudo"},
+      {"cantidad":"1","unidad":"pza","item":"huevo"},
+      {"cantidad":"4","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles serranos"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"3","unidad":"ramas","item":"hierbabuena"}
+    ],
+    "pasos": ["Mezcla la carne molida con el arroz, huevo, sal y pimienta. Forma bolitas.","Licúa jitomates, chiles y cebolla. Fríe la salsa en aceite 3 minutos.","Agrega 1 litro de agua caliente y hierve. Añade las albóndigas.","Cocina 20 minutos sin mover. Agrega hierbabuena al final."],
+    "tags": ["clasico","caldoso","con_res","con_cerdo"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Sopa de lentejas",
+    "tipo": "comida",
+    "tiempo_min": 35,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"lentejas"},
+      {"cantidad":"1","unidad":"pza","item":"plátano macho"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"},
+      {"cantidad":"50","unidad":"g","item":"tocino"}
+    ],
+    "pasos": ["Remoja las lentejas 20 minutos. Escurre.","Licúa jitomates, cebolla y ajo. Fríe la salsa con el tocino picado 3 minutos.","Agrega lentejas y 1 litro de agua. Hierve a fuego medio.","Corta el plátano en rodajas y agrega. Cocina 20 minutos hasta que las lentejas ablanden."],
+    "tags": ["caldoso","economico"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Costillas de puerco en salsa verde",
+    "tipo": "comida",
+    "tiempo_min": 50,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"500","unidad":"g","item":"costillas de puerco"},
+      {"cantidad":"500","unidad":"g","item":"tomates verdes"},
+      {"cantidad":"3","unidad":"pzas","item":"chiles serranos"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Sazona las costillas con sal. Dóralas en aceite 5 minutos por lado.","Hierve tomates y chiles 10 minutos. Licúa con cebolla y ajo.","Agrega la salsa a las costillas, reduce el fuego y tapa.","Cocina 30 minutos hasta que la carne esté muy suave."],
+    "tags": ["clasico","con_cerdo","caldoso"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Tacos de barbacoa de res",
+    "tipo": "comida",
+    "tiempo_min": 60,
+    "dificultad": "media",
+    "porciones": 6,
+    "ingredientes": [
+      {"cantidad":"600","unidad":"g","item":"chambarete o mejilla de res"},
+      {"cantidad":"3","unidad":"pzas","item":"chiles guajillo"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles anchos"},
+      {"cantidad":"4","unidad":"dientes","item":"ajo"},
+      {"cantidad":"1","unidad":"cdita","item":"comino"},
+      {"cantidad":"1","unidad":"cdita","item":"orégano"},
+      {"cantidad":"18","unidad":"pzas","item":"tortillas de maíz"}
+    ],
+    "pasos": ["Hidrata los chiles en agua caliente 15 minutos. Licúa con ajo, comino y orégano.","Unta la carne con la salsa y marina 10 minutos mínimo.","Cuece en olla express con 1 taza de agua 40 minutos, o en olla normal 60 minutos.","Deshebra la carne y sirve en tacos con cilantro, cebolla y salsa."],
+    "tags": ["clasico","con_res"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Torta de pollo",
+    "tipo": "comida",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"bolillos"},
+      {"cantidad":"2","unidad":"pzas","item":"pechugas de pollo"},
+      {"cantidad":"2","unidad":"cdas","item":"mayonesa"},
+      {"cantidad":"1","unidad":"pza","item":"aguacate"},
+      {"cantidad":"1","unidad":"pza","item":"jitomate"},
+      {"cantidad":"1","unidad":"hoja","item":"lechuga"}
+    ],
+    "pasos": ["Sazona las pechugas con sal, pimienta y ajo. Cuece o asa a la plancha.","Rebana las pechugas. Tuesta los bolillos.","Unta mayonesa en el bolillo. Agrega lechuga, jitomate y aguacate.","Coloca el pollo y cierra. Sirve con chipotles en vinagre al gusto."],
+    "tags": ["clasico","con_pollo"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Tampiqueña",
+    "tipo": "comida",
+    "tiempo_min": 30,
+    "dificultad": "media",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"bisteces delgados de res"},
+      {"cantidad":"1","unidad":"pza","item":"chile poblano"},
+      {"cantidad":"50","unidad":"g","item":"queso Oaxaca"},
+      {"cantidad":"1","unidad":"taza","item":"arroz rojo"},
+      {"cantidad":"1/2","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"4","unidad":"pzas","item":"tortillas"}
+    ],
+    "pasos": ["Asa el chile poblano y córtalo en rajas. Calienta con queso hasta derretir.","Sazona los bisteces y ásalos en sartén muy caliente 2 minutos por lado.","Sirve el bistec con las rajas de chile y queso encima.","Acompaña con arroz rojo, frijoles y tortillas."],
+    "tags": ["clasico","con_res"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Pescado a la veracruzana",
+    "tipo": "comida",
+    "tiempo_min": 30,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"filetes de pescado"},
+      {"cantidad":"4","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1/2","unidad":"taza","item":"aceitunas"},
+      {"cantidad":"2","unidad":"cdas","item":"alcaparras"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles güeros"}
+    ],
+    "pasos": ["Sofríe la cebolla en aceite de oliva hasta transparentar.","Agrega jitomate picado, aceitunas, alcaparras y chiles güeros. Cocina 10 minutos.","Sazona los filetes con sal y limón. Colócalos sobre la salsa.","Tapa y cocina 8-10 minutos a fuego bajo hasta que el pescado esté cocido."],
+    "tags": ["clasico","caldoso"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Quesadillas de huitlacoche",
+    "tipo": "comida",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"lata","item":"huitlacoche"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"100","unidad":"g","item":"queso Oaxaca"},
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Sofríe la cebolla en aceite 2 minutos. Agrega el huitlacoche con epazote.","Cocina 5 minutos a fuego medio hasta que el huitlacoche esté tierno.","Coloca el relleno y queso en las tortillas, dobla.","Calienta en comal hasta que el queso derrita."],
+    "tags": ["clasico","sin_carne"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Caldo tlalpeño",
+    "tipo": "comida",
+    "tiempo_min": 45,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"piernas de pollo"},
+      {"cantidad":"1","unidad":"taza","item":"garbanzos cocidos"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles chipotles en adobo"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1","unidad":"pza","item":"epazote"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"}
+    ],
+    "pasos": ["Cuece el pollo en agua con ajo, cebolla y sal 25 minutos.","Retira el pollo, deshebra. Cuela el caldo.","Licúa jitomates y chipotles, agrega al caldo y hierve.","Añade el pollo, garbanzos y epazote. Cocina 10 minutos más."],
+    "tags": ["caldoso","clasico","con_pollo"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Pozole rojo (exprés)",
+    "tipo": "comida",
+    "tiempo_min": 30,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"400","unidad":"g","item":"pollo deshebrado cocido"},
+      {"cantidad":"1","unidad":"lata","item":"maíz cacahuazintle"},
+      {"cantidad":"3","unidad":"pzas","item":"chiles guajillo"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles ancho"},
+      {"cantidad":"4","unidad":"dientes","item":"ajo"},
+      {"cantidad":"1","unidad":"cda","item":"orégano"}
+    ],
+    "pasos": ["Hidrata los chiles en agua caliente 15 minutos. Licúa con ajo y orégano.","Fríe la salsa en aceite 3 minutos. Agrega 1.5 litros de caldo.","Añade el maíz y el pollo. Hierve 15 minutos.","Sirve con lechuga, rábanos, orégano y tostadas."],
+    "tags": ["clasico","caldoso","con_pollo"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Sopa de lima yucateca",
+    "tipo": "comida",
+    "tiempo_min": 35,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"pechugas de pollo"},
+      {"cantidad":"3","unidad":"pzas","item":"limas o limones"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"pza","item":"chile habanero"},
+      {"cantidad":"4","unidad":"pzas","item":"tortillas fritas en tiras"}
+    ],
+    "pasos": ["Cuece el pollo con ajo y sal 20 minutos. Deshebra. Guarda el caldo.","Sofríe jitomate y cebolla picados. Agrega al caldo.","Exprime el jugo de las limas al caldo. Agrega el pollo.","Sirve caliente con tiras de tortilla frita. Chile habanero al lado."],
+    "tags": ["clasico","caldoso","con_pollo"],
+    "imagen_placeholder": "#F4A261"
+  },
+  {
+    "nombre": "Quesadillas de flor de calabaza",
+    "tipo": "comida",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"8","unidad":"pzas","item":"flores de calabaza"},
+      {"cantidad":"100","unidad":"g","item":"queso Oaxaca"},
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Limpia las flores de calabaza quitando el pistilo.","Sofríe la cebolla en aceite, agrega las flores y cocina 3 minutos.","Coloca las flores y queso en las tortillas, dobla.","Calienta en comal con un poco de aceite hasta que el queso derrita."],
+    "tags": ["sin_carne","clasico","rapido"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Tacos de guisado de espinacas",
+    "tipo": "comida",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"manojos","item":"espinacas"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1","unidad":"pza","item":"cebolla"},
+      {"cantidad":"100","unidad":"g","item":"queso panela"},
+      {"cantidad":"12","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Lava bien las espinacas. Pica la cebolla y el jitomate.","Sofríe cebolla en aceite 2 minutos, agrega jitomate 3 minutos.","Agrega las espinacas y cocina hasta que marchiten 3 minutos. Sazona.","Sirve en tacos con queso panela en cubos."],
+    "tags": ["rapido","sin_carne","economico"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Arroz con leche",
+    "tipo": "cena",
+    "tiempo_min": 35,
+    "dificultad": "fácil",
+    "porciones": 6,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"arroz"},
+      {"cantidad":"4","unidad":"tazas","item":"leche"},
+      {"cantidad":"1","unidad":"taza","item":"agua"},
+      {"cantidad":"3","unidad":"cdas","item":"azúcar"},
+      {"cantidad":"1","unidad":"raja","item":"canela"},
+      {"cantidad":"1","unidad":"pizca","item":"sal"}
+    ],
+    "pasos": ["Hierve el arroz en agua con la raja de canela y sal 10 minutos.","Agrega la leche caliente y el azúcar. Revuelve bien.","Cocina a fuego bajo 20 minutos revolviendo frecuentemente para evitar que se pegue.","Sirve caliente o frío espolvoreado con canela molida."],
+    "tags": ["clasico","sin_carne","economico"],
+    "imagen_placeholder": "#9CA3AF"
+  },
+  {
+    "nombre": "Quesadillas de papa y chorizo",
+    "tipo": "cena",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"papas"},
+      {"cantidad":"150","unidad":"g","item":"chorizo"},
+      {"cantidad":"150","unidad":"g","item":"queso manchego"},
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de harina"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Cuece las papas, pélalas y corta en cubos. Fríe el chorizo.","Mezcla papa y chorizo. Sazona si es necesario.","Rellena las tortillas con el guisado y queso manchego. Dobla.","Calienta en comal hasta que el queso derrita. Sirve con salsa."],
+    "tags": ["rapido","clasico","con_cerdo"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Sopa de arroz con pollo",
+    "tipo": "cena",
+    "tiempo_min": 30,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"arroz"},
+      {"cantidad":"2","unidad":"pzas","item":"pechugas de pollo"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"1","unidad":"litro","item":"caldo de pollo"}
+    ],
+    "pasos": ["Cuece el pollo en el caldo 15 minutos. Retira y deshebra.","Dora el arroz en aceite en una olla. Agrega licuado de jitomate, cebolla y ajo.","Cocina la salsa 3 minutos. Agrega el caldo caliente.","Añade el pollo deshebrado. Cocina 15 minutos a fuego bajo tapado."],
+    "tags": ["clasico","caldoso","con_pollo"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Guisado de atún con papa",
+    "tipo": "cena",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"latas","item":"atún en agua"},
+      {"cantidad":"2","unidad":"pzas","item":"papas"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"pza","item":"chile serrano"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Cuece las papas en cubos en agua salada 10 minutos.","Sofríe cebolla y chile en aceite. Agrega jitomate picado 3 minutos.","Añade el atún escurrido y la papa cocida. Mezcla bien.","Cocina 5 minutos. Sirve con arroz o tortillas."],
+    "tags": ["rapido","economico"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Tacos de frijoles con queso",
+    "tipo": "cena",
+    "tiempo_min": 10,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"8","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"100","unidad":"g","item":"queso fresco"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Calienta los frijoles refritos con un poco de aceite.","Calienta las tortillas en comal o microondas.","Pon frijoles en cada tortilla y agrega queso fresco desmoronado.","Dobla y sirve con salsa verde al gusto."],
+    "tags": ["rapido","economico","sin_carne"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Caldo de pollo con fideos",
+    "tipo": "cena",
+    "tiempo_min": 30,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"piernas de pollo"},
+      {"cantidad":"100","unidad":"g","item":"fideos"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"2","unidad":"pzas","item":"zanahorias"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"3","unidad":"ramas","item":"cilantro"}
+    ],
+    "pasos": ["Cuece el pollo en 1.5 litros de agua con sal 20 minutos.","Retira el pollo, deshebra. Agrega zanahoria al caldo.","Licúa jitomate y cebolla, cuela y agrega al caldo. Hierve.","Añade los fideos y cocina 7 minutos. Regresa el pollo. Sirve con cilantro."],
+    "tags": ["caldoso","clasico","con_pollo"],
+    "imagen_placeholder": "#9CA3AF"
+  },
+  {
+    "nombre": "Torta de milanesa de pollo",
+    "tipo": "cena",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"milanesas de pollo"},
+      {"cantidad":"2","unidad":"pzas","item":"bolillos"},
+      {"cantidad":"1","unidad":"pza","item":"aguacate"},
+      {"cantidad":"2","unidad":"cdas","item":"mayonesa"},
+      {"cantidad":"1","unidad":"pza","item":"jitomate"},
+      {"cantidad":"1","unidad":"taza","item":"lechuga"}
+    ],
+    "pasos": ["Empaniza las milanesas con pan molido y huevo. Fríe hasta dorar.","Abre y tuesta los bolillos.","Unta mayonesa, agrega lechuga, jitomate y aguacate.","Coloca la milanesa y cierra. Sirve con chipotles al gusto."],
+    "tags": ["clasico","con_pollo"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Sopa de pasta con verduras",
+    "tipo": "cena",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"200","unidad":"g","item":"pasta corta"},
+      {"cantidad":"2","unidad":"pzas","item":"calabacitas"},
+      {"cantidad":"2","unidad":"pzas","item":"zanahorias"},
+      {"cantidad":"1/2","unidad":"taza","item":"ejotes"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1","unidad":"litro","item":"caldo o agua"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Sofríe jitomate, cebolla y ajo picados en aceite 3 minutos.","Agrega el caldo y hierve. Añade zanahorias y ejotes 5 minutos.","Agrega calabacitas y la pasta. Cocina 8-10 minutos.","Sazona con sal. Sirve con queso rallado al gusto."],
+    "tags": ["caldoso","sin_carne","economico"],
+    "imagen_placeholder": "#9CA3AF"
+  },
+  {
+    "nombre": "Taquitos de pollo deshebrado",
+    "tipo": "cena",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"tazas","item":"pollo deshebrado cocido"},
+      {"cantidad":"12","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"},
+      {"cantidad":"1","unidad":"taza","item":"crema"},
+      {"cantidad":"100","unidad":"g","item":"queso fresco"},
+      {"cantidad":"1","unidad":"taza","item":"aceite"}
+    ],
+    "pasos": ["Calienta las tortillas y rellena con pollo deshebrado. Enrolla y asegura con palillo.","Fríe en aceite caliente 3-4 minutos girando hasta que doren.","Retira el palillo. Sirve en plato.","Baña con salsa verde, crema y queso fresco desmoronado."],
+    "tags": ["clasico","con_pollo"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Sopas de arroz con plátano",
+    "tipo": "cena",
+    "tiempo_min": 30,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"tazas","item":"arroz cocido"},
+      {"cantidad":"1","unidad":"pza","item":"plátano macho"},
+      {"cantidad":"2","unidad":"cdas","item":"mantequilla"},
+      {"cantidad":"100","unidad":"g","item":"queso fresco"},
+      {"cantidad":"1/2","unidad":"taza","item":"crema"}
+    ],
+    "pasos": ["Corta el plátano en rodajas y dora en mantequilla hasta caramelizar.","Mezcla el arroz con la crema y el queso desmoronado.","Coloca el arroz en plato o cazuela. Agrega el plátano encima.","Sirve caliente como acompañamiento o plato principal ligero."],
+    "tags": ["clasico","sin_carne"],
+    "imagen_placeholder": "#9CA3AF"
+  },
+  {
+    "nombre": "Ensalada de noche buena",
+    "tipo": "cena",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"3","unidad":"pzas","item":"betabeles cocidos"},
+      {"cantidad":"3","unidad":"pzas","item":"naranjas"},
+      {"cantidad":"1","unidad":"pza","item":"jícama pequeña"},
+      {"cantidad":"2","unidad":"pzas","item":"plátanos"},
+      {"cantidad":"1/4","unidad":"taza","item":"cacahuates"},
+      {"cantidad":"2","unidad":"cdas","item":"azúcar"},
+      {"cantidad":"1","unidad":"pza","item":"limón"}
+    ],
+    "pasos": ["Corta betabel y jícama en cubos. Pela las naranjas y separa gajos.","Rebana los plátanos.","Mezcla todo en un tazón grande. Exprime limón, agrega azúcar.","Espolvorea cacahuates tostados. Refrigera antes de servir."],
+    "tags": ["clasico","sin_carne","economico"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Sopa de elote",
+    "tipo": "cena",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"3","unidad":"pzas","item":"elotes desgranados"},
+      {"cantidad":"2","unidad":"tazas","item":"leche"},
+      {"cantidad":"1","unidad":"taza","item":"caldo de verduras"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"cda","item":"mantequilla"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"}
+    ],
+    "pasos": ["Sofríe la cebolla en mantequilla 2 minutos.","Licúa los granos de elote con la leche hasta suave. Cuela.","Agrega el licuado a la cebolla junto con el caldo. Hierve a fuego medio.","Cocina 10 minutos revolviendo. Sirve con crema y chile en polvo."],
+    "tags": ["caldoso","sin_carne","economico"],
+    "imagen_placeholder": "#F7C59F"
+  },
+  {
+    "nombre": "Enchiladas suizas",
+    "tipo": "cena",
+    "tiempo_min": 30,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"12","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"2","unidad":"tazas","item":"pollo deshebrado"},
+      {"cantidad":"500","unidad":"g","item":"tomates verdes"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles serranos"},
+      {"cantidad":"1","unidad":"taza","item":"crema"},
+      {"cantidad":"150","unidad":"g","item":"queso manchego rallado"}
+    ],
+    "pasos": ["Hierve tomates y chiles 8 minutos. Licúa con crema y sal. Mezcla con el pollo.","Calienta tortillas para que sean flexibles.","Rellena cada tortilla con pollo, enrolla y coloca en refractario.","Baña con la salsa restante, espolvorea queso y hornea 15 minutos a 180°C."],
+    "tags": ["clasico","con_pollo"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Tacos de canasta de chicharrón",
+    "tipo": "cena",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"150","unidad":"g","item":"chicharrón en salsa verde"},
+      {"cantidad":"12","unidad":"pzas","item":"tortillas de maíz pequeñas"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla picada"},
+      {"cantidad":"3","unidad":"ramas","item":"cilantro"}
+    ],
+    "pasos": ["Calienta el chicharrón en salsa verde en sartén 5 minutos.","Calienta las tortillas en comal.","Arma los tacos con el chicharrón en salsa.","Agrega cebolla picada, cilantro y salsa adicional al gusto."],
+    "tags": ["rapido","clasico","con_cerdo","economico"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Crema de chayote",
+    "tipo": "cena",
+    "tiempo_min": 30,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"3","unidad":"pzas","item":"chayotes"},
+      {"cantidad":"1","unidad":"pza","item":"papa"},
+      {"cantidad":"1","unidad":"taza","item":"crema"},
+      {"cantidad":"1","unidad":"litro","item":"caldo de verduras"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"diente","item":"ajo"}
+    ],
+    "pasos": ["Pela y corta chayotes y papa en cubos. Cuece en caldo con cebolla y ajo 20 minutos.","Licúa todo junto con la crema hasta obtener textura lisa.","Regresa a la olla, ajusta sal y calienta a fuego bajo.","Sirve con crutones de pan o cilantro picado."],
+    "tags": ["caldoso","sin_carne","economico"],
+    "imagen_placeholder": "#9CA3AF"
+  },
+  {
+    "nombre": "Pasta con crema y jamón",
+    "tipo": "cena",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"300","unidad":"g","item":"pasta tornillo o macarrón"},
+      {"cantidad":"150","unidad":"g","item":"jamón en cubos"},
+      {"cantidad":"1","unidad":"taza","item":"crema ácida"},
+      {"cantidad":"100","unidad":"g","item":"queso manchego rallado"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"cda","item":"mantequilla"}
+    ],
+    "pasos": ["Cuece la pasta según indicaciones. Escurre.","Sofríe la cebolla en mantequilla 2 minutos. Agrega el jamón 2 minutos.","Baja el fuego, agrega la crema y la mitad del queso. Mezcla.","Incorpora la pasta, sirve con el queso restante."],
+    "tags": ["rapido","clasico","economico"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Sopa de lima fría",
+    "tipo": "cena",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"tazas","item":"pollo deshebrado"},
+      {"cantidad":"3","unidad":"pzas","item":"limones"},
+      {"cantidad":"1","unidad":"taza","item":"caldo de pollo frío"},
+      {"cantidad":"1","unidad":"pza","item":"aguacate"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla morada"},
+      {"cantidad":"3","unidad":"ramas","item":"cilantro"}
+    ],
+    "pasos": ["Mezcla el pollo deshebrado con el jugo de limón y caldo frío.","Corta el aguacate en cubos y la cebolla morada muy fina.","Sirve el caldo frío en tazones. Agrega aguacate y cebolla.","Decora con cilantro. Sirve con tostadas o totopos."],
+    "tags": ["rapido","con_pollo"],
+    "imagen_placeholder": "#9CA3AF"
+  },
+  {
+    "nombre": "Molletes de frijoles y chorizo",
+    "tipo": "cena",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"bolillos"},
+      {"cantidad":"1","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"100","unidad":"g","item":"chorizo"},
+      {"cantidad":"100","unidad":"g","item":"queso manchego rallado"},
+      {"cantidad":"1","unidad":"taza","item":"pico de gallo"}
+    ],
+    "pasos": ["Fríe el chorizo desmenuzado hasta cocinar bien.","Abre y tuesta los bolillos en el horno o comal.","Unta frijoles, agrega chorizo y queso manchego.","Gratina en horno o con soplete. Sirve con pico de gallo."],
+    "tags": ["rapido","clasico","con_cerdo"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Picadillo de verduras con huevo",
+    "tipo": "cena",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"pzas","item":"papas"},
+      {"cantidad":"2","unidad":"pzas","item":"zanahorias"},
+      {"cantidad":"1","unidad":"taza","item":"ejotes"},
+      {"cantidad":"4","unidad":"pzas","item":"huevos"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Corta todas las verduras en cubos pequeños. Cuece en agua 8 minutos.","Sofríe jitomate y cebolla en aceite 3 minutos.","Agrega las verduras escurridas, mezcla bien.","Bate los huevos, vierte y revuelve hasta cuajar. Sazona."],
+    "tags": ["rapido","economico","sin_carne","con_huevo"],
+    "imagen_placeholder": "#9CA3AF"
+  },
+  {
+    "nombre": "Arroz con leche de chocolate",
+    "tipo": "cena",
+    "tiempo_min": 30,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"arroz"},
+      {"cantidad":"3","unidad":"tazas","item":"leche"},
+      {"cantidad":"2","unidad":"cdas","item":"cacao en polvo sin azúcar"},
+      {"cantidad":"3","unidad":"cdas","item":"azúcar"},
+      {"cantidad":"1","unidad":"raja","item":"canela"}
+    ],
+    "pasos": ["Cuece el arroz a la mitad en agua con canela.","Disuelve el cacao en polvo en la leche tibia. Agrega azúcar.","Agrega la leche chocolatada al arroz semicocido.","Cocina a fuego bajo 15 minutos revolviendo. Sirve tibio o frío."],
+    "tags": ["clasico","sin_carne"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Quesadillas de tinga",
+    "tipo": "cena",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"taza","item":"tinga de pollo"},
+      {"cantidad":"4","unidad":"pzas","item":"tortillas de harina"},
+      {"cantidad":"150","unidad":"g","item":"queso Oaxaca"},
+      {"cantidad":"1","unidad":"taza","item":"crema"},
+      {"cantidad":"1","unidad":"taza","item":"salsa roja"}
+    ],
+    "pasos": ["Calienta la tinga de pollo en sartén.","Coloca tinga y queso en las tortillas, dobla.","Calienta en comal hasta que el queso funda.","Sirve con crema y salsa roja al gusto."],
+    "tags": ["rapido","clasico","con_pollo"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Coctel de camarón",
+    "tipo": "cena",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"200","unidad":"g","item":"camarones cocidos"},
+      {"cantidad":"1","unidad":"taza","item":"salsa cátsup"},
+      {"cantidad":"1","unidad":"pza","item":"limón"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla morada"},
+      {"cantidad":"1","unidad":"pza","item":"aguacate"},
+      {"cantidad":"1","unidad":"pza","item":"chile serrano"},
+      {"cantidad":"3","unidad":"ramas","item":"cilantro"}
+    ],
+    "pasos": ["Mezcla la cátsup con jugo de limón, sal y salsa valentina al gusto.","Pica cebolla, chile y cilantro finamente. Agrega a la salsa.","Añade los camarones cocidos.","Sirve en vasos con aguacate en cubos y tostadas."],
+    "tags": ["rapido","clasico"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Sopa de tortilla",
+    "tipo": "cena",
+    "tiempo_min": 30,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"tortillas en tiras"},
+      {"cantidad":"4","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"2","unidad":"pzas","item":"chiles pasilla"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"2","unidad":"dientes","item":"ajo"},
+      {"cantidad":"100","unidad":"g","item":"queso fresco"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"}
+    ],
+    "pasos": ["Fríe las tiras de tortilla en aceite hasta que críspeen. Escurre.","Asa el chile pasilla y pon en la licuadora con jitomates, cebolla y ajo.","Fríe la salsa en aceite 5 minutos. Agrega 1 litro de caldo.","Sirve el caldo caliente sobre las tortillas. Decora con queso, crema y chile."],
+    "tags": ["clasico","caldoso","sin_carne"],
+    "imagen_placeholder": "#E63946"
+  },
+  {
+    "nombre": "Tacos de fideo seco",
+    "tipo": "cena",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"200","unidad":"g","item":"fideo seco guisado"},
+      {"cantidad":"12","unidad":"pzas","item":"tortillas de maíz"},
+      {"cantidad":"50","unidad":"g","item":"queso fresco"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"}
+    ],
+    "pasos": ["Calienta el fideo seco que sobró o prepara según la receta.","Calienta las tortillas en comal.","Rellena cada tortilla con fideo seco.","Sirve con queso fresco, crema y salsa verde."],
+    "tags": ["rapido","economico","sin_carne"],
+    "imagen_placeholder": "#9CA3AF"
+  },
+  {
+    "nombre": "Huevo con nopales",
+    "tipo": "cena",
+    "tiempo_min": 25,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"4","unidad":"pzas","item":"huevos"},
+      {"cantidad":"2","unidad":"pzas","item":"nopales medianos"},
+      {"cantidad":"2","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"cda","item":"aceite"}
+    ],
+    "pasos": ["Limpia y pica los nopales. Cuece 10 minutos con sal. Escurre y enjuaga.","Sofríe cebolla y jitomate picados 3 minutos.","Agrega los nopales, cocina 2 minutos.","Bate los huevos con sal, vierte y revuelve hasta cuajar."],
+    "tags": ["economico","sin_carne","con_huevo"],
+    "imagen_placeholder": "#2D6A4F"
+  },
+  {
+    "nombre": "Tlacoyos de frijol",
+    "tipo": "cena",
+    "tiempo_min": 30,
+    "dificultad": "media",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"2","unidad":"tazas","item":"masa para tortillas"},
+      {"cantidad":"1","unidad":"taza","item":"frijoles refritos"},
+      {"cantidad":"100","unidad":"g","item":"queso fresco"},
+      {"cantidad":"1","unidad":"taza","item":"salsa verde"},
+      {"cantidad":"2","unidad":"cdas","item":"crema"}
+    ],
+    "pasos": ["Divide la masa en 8 bolitas. Aplana en forma ovalada gruesa.","Pon una cucharada de frijoles en el centro y cierra la masa. Forma un óvalo.","Cuece en comal seco a fuego medio 5-6 minutos por lado.","Sirve con salsa verde, crema y queso desmoronado."],
+    "tags": ["clasico","sin_carne","economico"],
+    "imagen_placeholder": "#6B7280"
+  },
+  {
+    "nombre": "Ensalada César mexicana",
+    "tipo": "cena",
+    "tiempo_min": 15,
+    "dificultad": "fácil",
+    "porciones": 2,
+    "ingredientes": [
+      {"cantidad":"1","unidad":"cabeza","item":"lechuga romana"},
+      {"cantidad":"2","unidad":"pzas","item":"pechugas de pollo a la plancha"},
+      {"cantidad":"50","unidad":"g","item":"queso parmesano rallado"},
+      {"cantidad":"1","unidad":"taza","item":"crutones"},
+      {"cantidad":"3","unidad":"cdas","item":"aderezo césar"}
+    ],
+    "pasos": ["Lava y trocea la lechuga romana.","Rebana las pechugas de pollo asadas.","Mezcla la lechuga con el aderezo césar.","Agrega el pollo, queso parmesano y crutones. Sirve de inmediato."],
+    "tags": ["rapido","con_pollo"],
+    "imagen_placeholder": "#9CA3AF"
+  },
+  {
+    "nombre": "Sopas de fideos con salchicha",
+    "tipo": "cena",
+    "tiempo_min": 20,
+    "dificultad": "fácil",
+    "porciones": 4,
+    "ingredientes": [
+      {"cantidad":"200","unidad":"g","item":"fideos o sopa de pasta"},
+      {"cantidad":"4","unidad":"pzas","item":"salchichas"},
+      {"cantidad":"3","unidad":"pzas","item":"jitomates"},
+      {"cantidad":"1/4","unidad":"pza","item":"cebolla"},
+      {"cantidad":"1","unidad":"litro","item":"caldo de pollo"},
+      {"cantidad":"1","unidad":"diente","item":"ajo"}
+    ],
+    "pasos": ["Corta las salchichas en rodajas. Sofríe en aceite 2 minutos.","Licúa jitomates, cebolla y ajo. Agrega a las salchichas y fríe 3 minutos.","Añade el caldo caliente y hierve.","Agrega los fideos y cocina según el tiempo del paquete. Ajusta sal."],
+    "tags": ["rapido","economico","caldoso"],
+    "imagen_placeholder": "#9CA3AF"
+  }
+]

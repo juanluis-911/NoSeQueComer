@@ -6,6 +6,7 @@ import SwipeCard from '@/components/SwipeCard'
 import RecipeBottomSheet from '@/components/RecipeBottomSheet'
 import FilterSheet from '@/components/FilterSheet'
 import type { Recipe, SessionFilters, Tipo } from '@/lib/types'
+import AdBanner from '@/components/AdBanner'
 
 const DEFAULT_FILTERS: SessionFilters = { tipo: 'comida', tiempo_max: 60 }
 
@@ -132,6 +133,9 @@ export default function SwipePage() {
           ⚙️
         </button>
       </div>
+
+      {/* Banner superior AdSense */}
+      <AdBanner />
 
       {/* Card area */}
       <div className="flex-1 flex flex-col items-center justify-center px-4 py-4">

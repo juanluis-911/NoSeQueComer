@@ -10,6 +10,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'NoSeQuéComer',
   description: 'Descubre recetas mexicanas cotidianas con un swipe',
+  other: {
+    'google-adsense-account': 'ca-pub-9139326886580345',
+  },
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
